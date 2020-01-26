@@ -5,8 +5,8 @@ def showAllView(list):
     for item in list:
       print(item.getTitle())
 def startView():
-    print('MVC - the simplest example')
-    print('Do you want to see everyone our my database?[y/n]')
+    print('Welcome to The Finite Library')
+    print('Would you like to see our entire database?[y/n]')
 
 def endView():
-    print('Goodbye!')
+    print('Thanks for visiting, goodbye!')

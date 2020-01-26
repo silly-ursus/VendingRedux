@@ -1,1 +1,18 @@
-[{"title": "Picard","genre": "SciFi","media": "Show"}]
+[
+  {
+    "title": "Picard",
+    "genre": "SciFi",
+    "media": "Show"
+  },
+  {
+    "title": "Westworld",
+    "genre": "SciFi",
+    "media": "Show"
+  },
+  {
+    "title": "The Sinner",
+    "genre": "Drama/Thriller",
+    "media": "Show"
+  }  
+    
+]
